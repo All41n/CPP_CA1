@@ -1,0 +1,8 @@
+﻿  Games.cpp
+c:\users\allai\onedrive\documents\c++\ca1_allain_escobar\ca1_allain_escobar\gamelibrary.h(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\allai\onedrive\documents\c++\ca1_allain_escobar\ca1_allain_escobar\gamelibrary.h(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\allai\onedrive\documents\c++\ca1_allain_escobar\ca1_allain_escobar\games.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  CA1_Allain_Escobar.cpp
+  CA1_Allain_Escobar.vcxproj -> C:\Users\Allai\OneDrive\Documents\C++\CA1_Allain_Escobar\Debug\CA1_Allain_Escobar.exe
